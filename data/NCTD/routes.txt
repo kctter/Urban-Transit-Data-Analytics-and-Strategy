@@ -1,0 +1,46 @@
+route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+301,101,"Oceanside - UTC/VA/UCSD",,3,http://www.gonctd.com/breeze,008C9B,FFFFFF
+302,302,"Oceanside - Vista via Vista Way",,3,http://www.gonctd.com/breeze,008C9B,FFFFFF
+303,303,"Oceanside - Vista via Mission Av",,3,http://www.gonctd.com/breeze,008C9B,FFFFFF
+304,304,"Encinitas - Palomar College",,3,http://www.gonctd.com/breeze,008C9B,FFFFFF
+305,305,"Vista - Escondido",,3,http://www.gonctd.com/breeze,008C9B,FFFFFF
+306,306,"Vista - Fallbrook",,3,http://www.gonctd.com/breeze,008C9B,FFFFFF
+308,308,"Escondido - Solana Beach",,3,http://www.gonctd.com/breeze,008C9B,FFFFFF
+309,309,"Town Center North - Encinitas via ECR",,3,http://www.gonctd.com/breeze,008C9B,FFFFFF
+311,311,"East Oceanside",,3,http://www.gonctd.com/breeze,008C9B,FFFFFF
+313,313,"Oceanside TC - Town Center North",,3,http://www.gonctd.com/breeze,008C9B,FFFFFF
+315,315,"College Bl Sprinter Sta - 22 Area via Vandegrift",,3,http://www.gonctd.com/breeze,008C9B,FFFFFF
+318,318,"Oceanside TC - Vista TC via Oceanside Blvd",,3,http://www.gonctd.com/breeze,008C9B,FFFFFF
+323,323,"College Sprinter - Quarry Creek",,3,http://www.gonctd.com/breeze,008C9B,FFFFFF
+325,325,"Carlsbad Village - College Sprinter",,3,http://www.gonctd.com/breeze,008C9B,FFFFFF
+332,332,"Vista TC - Buena Creek Station",,3,http://www.gonctd.com/breeze,008C9B,FFFFFF
+334,334,"Vista Circulator",,3,http://www.gonctd.com/breeze,008C9B,FFFFFF
+347,347,"CSUSM to PCTC",,3,http://www.gonctd.com/breeze,008C9B,FFFFFF
+350,350,"BREEZE Rapid:  ETC - Del Lago TC",,3,http://www.gonctd.com/breeze,008C9B,FFFFFF
+351,351,"Escondido Circulator (CCW)",,3,http://www.gonctd.com/breeze,008C9B,FFFFFF
+352,352,"Midway & Washington (Clock)",,3,http://www.gonctd.com/breeze,008C9B,FFFFFF
+353,353,"Escondido to Nordahl Market Pl via Citracado",,3,http://www.gonctd.com/breeze,008C9B,FFFFFF
+354,354,"Escondido TC - Orange Glen High School",,3,http://www.gonctd.com/breeze,008C9B,FFFFFF
+355,355,"N. Broadway to El Norte Parkway",,3,http://www.gonctd.com/breeze,008C9B,FFFFFF
+356,356,"Morningview & Escondido Blvd (Clock)",,3,http://www.gonctd.com/breeze,008C9B,FFFFFF
+357,357,"Valley Parkway to El Norte Parkway",,3,http://www.gonctd.com/breeze,008C9B,FFFFFF
+358,358,"Escondido Country Club (Clock)",,3,http://www.gonctd.com/breeze,008C9B,FFFFFF
+359,359,"Escondido Country Club (Counter)",,3,http://www.gonctd.com/breeze,008C9B,FFFFFF
+371,371,"Escondido - Ramona",,3,http://www.gonctd.com/breeze,008C9B,FFFFFF
+388,388,"Escondido - Pala",,3,http://www.gonctd.com/breeze,008C9B,FFFFFF
+392,392,"Oceanside TC - 14 Area",,3,http://www.gonctd.com/breeze,008C9B,FFFFFF
+395,395,"Oceanside TC - Camp San Onofre",,3,http://www.gonctd.com/breeze,008C9B,FFFFFF
+398,,"COASTER",,2,http://www.gonctd.com/coaster,00459D,FFFFFF
+399,,"SPRINTER",,0,http://www.gonctd.com/sprinter,00AB9B,FFFFFF
+444,444,"Poinsettia Station Coaster Conx - Faraday",,3,http://www.gonctd.com/breeze,008C9B,FFFFFF
+445,445,"Poinsettia - Palomar College via PAR",,3,http://www.gonctd.com/breeze,008C9B,FFFFFF
+604,604,"Encinitas - San Marcos",,3,http://www.gonctd.com/breeze,008C9B,FFFFFF
+608,608,"Escondido TC - Del Lago Academy",,3,http://www.gonctd.com/breeze,008C9B,FFFFFF
+609,609,"Encinitas Station - Sage Creek HS",,3,http://www.gonctd.com/breeze,008C9B,FFFFFF
+623,623,"College Sprinter - Sage Creek HS",,3,http://www.gonctd.com/breeze,008C9B,FFFFFF
+632,632,"Vista TC - Rancho Buena Vista HS",,3,http://www.gonctd.com/breeze,008C9B,FFFFFF
+634,634,"Monte Vista - Rancho Minerva MS",,3,http://www.gonctd.com/breeze,008C9B,FFFFFF
+645,645,"San Marcos HS - Palomar College",,3,http://www.gonctd.com/breeze,008C9B,FFFFFF
+651,651,"Escondido Circulator - Orange Glen HS",,3,http://www.gonctd.com/breeze,008C9B,FFFFFF
+652,652,"Midway & Washington - Orange Glen HS",,3,http://www.gonctd.com/breeze,008C9B,FFFFFF
+498,498,"COASTER",,2,http://www.gonctd.com/coaster,00459D,FFFFFF
